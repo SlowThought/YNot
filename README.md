@@ -1,0 +1,2 @@
+# YNot
+Land yacht simulation
